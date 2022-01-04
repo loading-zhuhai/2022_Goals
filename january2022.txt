@@ -1,0 +1,17 @@
+Goals for January 2022
+
+Joanne:
+1. Connect sails project to database which we can do CRUD operations on (4 wk)
+
+Jay:
+1. Create an layout of my printing website(2 wks)
+2. Build a simple js project and put it on github(that I built myself(2 wks)
+
+Tess:
+1. finish the whole look for coralbords(18th)
+2.prepare the second website,check which one is better.(start running at end of the month,talk to coral gardener,then change the look)
+
+N8:
+1. Get the fly.io website for coral to have a database (2 wks)
+2. Pronunciacion de ingles website remade with the upgraded elixir version(1 wk)
+3. Create a javascript react project with a UI for high and low numbers(1 wk)
